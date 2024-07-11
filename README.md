@@ -2,7 +2,7 @@
 
 A quick start Vue project that shows how to save and export the [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-diagram-export-samples) component. This project includes code snippets for saving and loading the Diagram as a JSON string and file stream. It also includes a code snippet to export the Diagram in PNG format.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-save-and-export-a-vue-diagram
 
 Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/serialization
 
